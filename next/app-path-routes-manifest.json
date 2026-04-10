@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/me/route": "/api/auth/me",
+  "/api/auth/signup/route": "/api/auth/signup",
+  "/api/checkout_sessions/route": "/api/checkout_sessions",
+  "/api/checkout_sessions/verify/route": "/api/checkout_sessions/verify",
+  "/api/favorites/route": "/api/favorites",
+  "/api/stocks/[symbol]/route": "/api/stocks/[symbol]",
+  "/api/stocks/search/route": "/api/stocks/search",
+  "/dashboard/page": "/dashboard",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/pricing/page": "/pricing",
+  "/profile/page": "/profile",
+  "/signup/page": "/signup"
+}

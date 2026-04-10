@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "email": "aawoodshop@gmail.com",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": "2026-04-08T01:19:53.857Z"
+    },
+    {
+      "id": "159f0b4f-abc7-46c5-a4ed-49bcc69099de",
+      "email": "test@test.com",
+      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "createdAt": "2026-04-08T03:02:55.155Z"
+    },
+    {
+      "id": "beb303b1-3cdf-4255-a56f-669b8e7197a3",
+      "email": "franciscoalvaro@live.com",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "hasPaid": false,
+      "createdAt": "2026-04-09T01:27:21.671Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "c0de44f4-6292-42a4-86a8-717897eef135",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "name": "francisco",
+      "createdAt": "2026-04-08T01:19:53.858Z"
+    },
+    {
+      "id": "6caf68ed-0185-4252-930a-2500a9475dac",
+      "userId": "159f0b4f-abc7-46c5-a4ed-49bcc69099de",
+      "name": "Test User",
+      "createdAt": "2026-04-08T03:02:55.156Z"
+    },
+    {
+      "id": "cc57d5a8-746e-4c5c-bc0f-7b3f36d776c8",
+      "userId": "beb303b1-3cdf-4255-a56f-669b8e7197a3",
+      "name": "Francisco",
+      "createdAt": "2026-04-09T01:27:21.671Z"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "ed0ba5c5-5d89-407e-86ea-ef64d24296ae",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "NVDA",
+      "companyName": "NVIDIA Corporation",
+      "addedAt": "2026-04-08T01:36:38.002Z"
+    },
+    {
+      "id": "ce0b80db-0bd4-401b-94a7-d3489f908cf7",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "AMZN",
+      "companyName": "Amazon.com Inc.",
+      "addedAt": "2026-04-08T01:36:49.401Z"
+    },
+    {
+      "id": "a7a49ec5-37e5-46c7-bbcd-a824db0d5b4b",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "EWY",
+      "companyName": "iShares MSCI South Korea ETF",
+      "addedAt": "2026-04-09T00:43:52.743Z"
+    },
+    {
+      "id": "b6efcc96-6977-4435-97bd-966a7ad7b1f3",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "MU",
+      "companyName": "Micron Technology, Inc.",
+      "addedAt": "2026-04-09T00:43:56.462Z"
+    },
+    {
+      "id": "f66550be-eb98-408c-b1f5-34ced0742e60",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "SMCI",
+      "companyName": "Super Micro Computer Inc. Common Stock",
+      "addedAt": "2026-04-09T00:52:29.027Z"
+    },
+    {
+      "id": "3037ec1d-9442-45ec-b17a-b084078dd577",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "OCGN",
+      "companyName": "Ocugen Inc. Common Stock",
+      "addedAt": "2026-04-09T00:52:39.781Z"
+    },
+    {
+      "id": "10709115-4f2d-4a84-aa3c-f61095780f2a",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "TSM",
+      "companyName": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "addedAt": "2026-04-09T00:52:49.955Z"
+    },
+    {
+      "id": "f4a04168-6340-4351-9889-f875d4757a45",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "MRNA",
+      "companyName": "Moderna Inc. Common Stock",
+      "addedAt": "2026-04-09T00:53:00.479Z"
+    },
+    {
+      "id": "c9a9e57b-27ee-4c8d-98da-a2b99715abbb",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "MSFT",
+      "companyName": "Microsoft Corporation Common Stock",
+      "addedAt": "2026-04-09T00:53:07.356Z"
+    },
+    {
+      "id": "03f18490-e942-4848-8343-5a8a3f9408bf",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "AMD",
+      "companyName": "Advanced Micro Devices Inc. Common Stock",
+      "addedAt": "2026-04-09T00:53:18.476Z"
+    },
+    {
+      "id": "7085e525-c85e-47d6-a36d-dead24337f10",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "VEEV",
+      "companyName": "Veeva Systems Inc. Class A Common Stock",
+      "addedAt": "2026-04-09T00:53:26.465Z"
+    },
+    {
+      "id": "6001d6ba-533b-49a5-926e-361ab9053a2a",
+      "userId": "9bbe9f56-83b7-4b5a-a5ab-db3c037b93fe",
+      "symbol": "PBR",
+      "companyName": "Petroleo Brasileiro S.A. Petrobras ADS",
+      "addedAt": "2026-04-09T00:53:41.656Z"
+    }
+  ]
+}
